@@ -1,4 +1,4 @@
 # ruby-koans
 Solutions to http://rubykoans.com
 
-Progress: 126 / 282
+Progress: 161 / 282
